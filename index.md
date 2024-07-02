@@ -24,11 +24,11 @@ From Sep. 2019 to Sep. 2020, I worked as a visiting scholar at Harvard John A. P
 -->
 </p>
 
+<!--
 <p>My research interest has been mainly in algorithmic game theory. In particular, in
 following topics: game theory and mechanism design, Internet and computational
 economics, crowd sourcing, reinforcement learning and multi-agent systems.</p>
 
-<!--
 <h3>News</h3>
 <ul>
 <li><i>Nash Equilibria of Two-round Auctions</i> is accepted by DAI-23.</li>
