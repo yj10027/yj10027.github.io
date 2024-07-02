@@ -8,7 +8,9 @@
 
 <body>
 <h1>Yaonan Jin(金耀楠)</h1>
+<!--
 <div class="introimage"><img src="./files/yanxiang.jpg" width="196" height="128" alt="Xiang Yan"></div>
+-->
 
 <p>
 I am a researcher in Huawei Taylor Lab.
