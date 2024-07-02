@@ -26,6 +26,7 @@ From Sep. 2019 to Sep. 2020, I worked as a visiting scholar at Harvard John A. P
 following topics: game theory and mechanism design, Internet and computational
 economics, crowd sourcing, reinforcement learning and multi-agent systems.</p>
 
+<!--
 <h3>News</h3>
 <ul>
 <li><i>Nash Equilibria of Two-round Auctions</i> is accepted by DAI-23.</li>
@@ -201,6 +202,7 @@ Shanghai 201206</dd></dl>
 
 <div class="foot">
 Last updated: 7 Feb, 2024
+-->
 </div>
 
 
