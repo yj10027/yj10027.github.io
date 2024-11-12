@@ -1,212 +1,143 @@
-
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<title>Yaonan Jin</title>
-<link rel="stylesheet" href="./files/main.css" type="text/css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Yaonan Jin's Homepage</title>
+<link rel="stylesheet" href="main.css" type="text/css">
+<style>
+  a:link, a:visited { color: DodgerBlue; text-decoration: none; }
+  a:hover { color: red; text-decoration: underline; }
+  a:active { color: yellow; text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/contrib/auto-render.min.js"
+        onload="renderMathInElement(document.body);"></script>
 </head>
-
-
 <body>
-<h1>Yaonan Jin(金耀楠)</h1>
-<!--
-<div class="introimage"><img src="./files/yanxiang.jpg" width="196" height="128" alt="Xiang Yan"></div>
--->
 
-<p>
-I am a researcher in Huawei Taylor Lab.
-<!--
-I received my PhD degree from Department of Computer Science of Shanghai Jiao Tong University, advised by <a href="http://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=106">Prof Xiaotie Deng</a>.
-I majored in mathematics and applied mathematics from 2011 to 2015 in Zhiyuan College (Mount Everest plan) of Shanghai Jiao Tong University as undergraduate student and joined <a href="http://aims.sjtu.edu.cn/">AIMS Lab</a> of SJTU from 2014 fall. 
-From July 2016 to Feb. 2017, I visited <a href="https://ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=15">Prof
-Qi Qi</a> as a research assistant in the Department of Industrial Engineering and Decision Analytics of Hong Kong University of Science and Technology.
-From July 2017 to June 2019, I worked as a research intern at the AI Group of <a href="https://www.antfin.com/index.htm?locale=en_US">Ant Financial (Hang Zhou)</a> under a school-company cooperation project, advised by Prof. <a href="https://www.cc.gatech.edu/~lsong/">Le Song</a> and Prof. <a href="https://scholar.google.com/citations?user=MqRa5voAAAAJ&hl=en">Yuan Qi</a>.
-From Sep. 2019 to Sep. 2020, I worked as a visiting scholar at Harvard John A. Paulson School of Engineering and Applied Sciences, advised by Prof. <a href="https://yiling.seas.harvard.edu">Yiling Chen</a>.
--->
-</p>
+<h1>Yaonan Jin (金耀楠)</h1>
+<!-- <div class="introimage"><img src="yaonan.jpg" width="220" alt="Yaonan Jin"></div> -->
 
-<!--
-<p>My research interest has been mainly in algorithmic game theory. In particular, in
-following topics: game theory and mechanism design, Internet and computational
-economics, crowd sourcing, reinforcement learning and multi-agent systems.</p>
+<p>I am a full-time researcher at the <a href="https://www.tcs-lab.com/">Huawei Theoretical Computer Science Lab</a>, led by Prof. <a href="http://pinyanlu.com/">Pinyan Lu</a>. My research interests encompass Theoretical Computer Science, with an emphasis on Algorithmic Economics.</p>
 
-<h3>News</h3>
-<ul>
-<li><i>Nash Equilibria of Two-round Auctions</i> is accepted by DAI-23.</li>
-<li><i>Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets</i> is accepted by ICML-23.
-<li><i>Truthfulness of a Network Resource-Sharing Protocol</i> is accepted by MOR.</li>
-<br>Contact me if you want the full versions or anything else unavailable.
-</li>
-</ul>
+<p>Before joining Huawei, I obtained my PhD from <a href="https://www.cs.columbia.edu/">Columbia University</a> in 2023, where I was advised by Prof. <a href="https://www.cs.columbia.edu/~xichen/">Xi Chen</a> and Prof. <a href="http://www.cs.columbia.edu/~rocco/">Rocco Servedio</a>. Prior to that, I earned my MPhil from the <a href="https://www.ust.hk/">Hong Kong University of Science and Technology</a> under the guidance of Prof. <a href="https://gsai.ruc.edu.cn/english/qiqi">Qi Qi</a>, and my BEng from <a href="https://www.sjtu.edu.cn/">Shanghai Jiao Tong University</a>.</p>
 
-
-<p></p>
-
-
+<p><strong><a href="https://yj10027.github.io/CV.pdf" target="_blank">Curriculum Vitae</a></strong></p>
 
 <h2>Contact</h2>
 <ul>
-<li><strong>Tel</strong>: (86) 15618496706</li>
-<li><strong>Email</strong>: xyansjtu (at) 163.com</li>
-<li><strong>Address</strong>:<br>
-<dl><dd>
-No. 200 Jinsu Road<br>
-Shanghai 201206</dd></dl>
-
-</li>
+  <li><strong>Email</strong>: jinyaonan@huawei.com</li>
 </ul>
 
-<h2>Publications</h2>
+<h2>Research Interests</h2>
+<ul>
+  <li>Theoretical Computer Science</li>
+  <li>Algorithmic Economics</li>
+  <li>Randomness in Computation</li>
+  <li>Sublinear Algorithms</li>
+</ul>
 
-<li class="title"> Nash Equilibria of Two-round Auctions (<a href="https://arxiv.org/abs/2312.04351">arXiv</a>)</li>
-<ul><ul><li>Joint work with Chulong Zhong, Yuyi Wang, Shuangping Huang, and Jin Zhong.</li></ul></ul>
-<ul><ul><li><i>The Fifth International Conference on Distributed Artificial Intelligence (DAI-23).</i></li></ul></ul>
+<h2>Employment</h2>
+<ul>
+  <li><strong>Huawei Theoretical Computer Science Lab</strong> <br> Researcher, 2023.05 - present</li>
+</ul>
 
-<li class="title"> Coordinated Dynamic Bidding in Repeated Second-Price Auctions with Budgets (<a href="https://arxiv.org/abs/2306.07709">arXiv</a>)</li>
-<ul><ul><li>Joint work with Yurong Chen, Qian Wang, Zhijian Duan, Haoran Sun, Zhaohua Chen, and Xiaotie Deng.</li></ul></ul>
-<ul><ul><li><i>The Foutieth International Conference on Machine Learning (ICML-23).</i></li></ul></ul>
+<h2>Education</h2>
+<ul>
+  <li><strong>Columbia University</strong> <br> PhD in Computer Science (2019.09 - 2023.04), advised by Xi Chen and Rocco Servedio <br> Thesis: <em>Bayesian Auction Design and Approximation</em></li>
+  <li><strong>Hong Kong University of Science and Technology</strong> <br> MPhil in Operations Research (2017.09 - 2018.12), advised by Qi Qi <br> Thesis: <em>Tight Approximation Ratio of Anonymous Pricing</em></li>
+  <li><strong>Shanghai Jiao Tong University</strong> <br> BEng in Computer Science (2013.09 - 2017.06)</li>
+</ul>
 
-<li class="title"> Truthfulness of a Network Resource-Sharing Protocol (<a href="https://pubsonline.informs.org/doi/10.1287/moor.2022.1310">pdf</a>)</li>
-<ul><ul><li>Joint work with Yukun Cheng, Xiaotie Deng, and Qi Qi.</li></ul></ul>
-<ul><ul><li><i>Mathematics of Operations Research, 2022.</i>[J]</li></ul></ul>
+<h2>Selected Publications</h2>
+<h3>Surveys</h3>
+<ul>
+  <li><b>Settling the Efficiency of First Price Auction</b> (<a href="https://www.sigecom.org/exchanges/volume_20/2/JIN.pdf">PDF</a>)<br>
+  Yaonan Jin and Pinyan Lu - ACM SIGecom Exchanges, 20(2): 69-74, 2022</li>
+  <li><b>Tight Revenue Gaps among Simple and Optimal Mechanisms</b> (<a href="http://www.sigecom.org/exchanges/volume_17/2/JIN.pdf">PDF</a>)<br>
+  Yaonan Jin, Pinyan Lu, Qi Qi, Zhihao Tang, and Tao Xiao - ACM SIGecom Exchanges, 17(2): 54-61, 2019</li>
+</ul>
+<h3>Journal Papers</h3>
+<ul>
+  <li><b>Benchmark-Tight Approximation Ratio of Simple Mechanism for a Unit-Demand Buyer</b><br>
+  Yaonan Jin, Pinyan Lu - Submitted to SIAM Journal on Computing</li>
+  
+  <li><b>Learning Reserve Prices in Second Price Auctions</b> (<a href="https://arxiv.org/abs/1912.10069">arXiv</a>)<br>
+  Yaonan Jin, Pinyan Lu, and Tao Xiao - Submitted to ACM Transactions on Economics and Computation</li>
+  
+  <li><b>First Price Auction is \(1 - 1 / e^{2}\) Efficient</b> (<a href="https://arxiv.org/abs/2207.01761">arXiv</a>)<br>
+  Yaonan Jin and Pinyan Lu - Journal of the ACM, 70(5): 36:1-36:86</li>
+  
+  <li><b>Average-Case Subset Balancing Problems</b> (<a href="https://arxiv.org/abs/2110.14607">arXiv</a>)<br>
+  Xi Chen, Yaonan Jin, Tim Randolph, and Rocco Servedio - Submitted to Random Structures & Algorithms</li>
+  
+  <li><b>Fourier Growth of Structured \(\mathbb{F}_2\)-Polynomials and Applications</b> (<a href="https://arxiv.org/abs/2107.10797">arXiv</a>, <a href="https://eccc.weizmann.ac.il/report/2021/110/">ECCC</a>)<br>
+  Jarosław Błasiok, Peter Ivanov, Yaonan Jin, Chin Ho Lee, Rocco Servedio, and Emanuele Viola - Invited Paper, to appear in Theory of Computing</li>
+  
+  <li><b>Tight Revenue Gaps among Multi-Unit Mechanisms</b> (<a href="https://arxiv.org/abs/2102.07454">arXiv</a>)<br>
+  Yaonan Jin, Shunhua Jiang, Pinyan Lu, and Hengjie Zhang - SIAM Journal on Computing, 51(5): 1535-1579, 2022</li>
+  
+  <li><b>Optimal Budget-Feasible Mechanisms for Additive Valuations</b> (<a href="http://arxiv.org/abs/1902.04635">arXiv</a>)<br>
+  Nick Gravin, Yaonan Jin, Pinyan Lu, and Chenhao Zhang - ACM Transactions on Economics and Computation, 8(4): 1-15, 2020</li>
+  
+  <li><b>Tight Revenue Gaps among Simple Mechanisms</b> (<a href="https://arxiv.org/abs/1804.00480">arXiv</a>)<br>
+  Yaonan Jin, Pinyan Lu, Zhihao Tang, and Tao Xiao - SIAM Journal on Computing, 49(5): 927-958, 2020</li>
+</ul>
+<h3>Conference Papers</h3>
+<ul>
+  <li><b>Benchmark-Tight Approximation Ratio of Simple Mechanism for a Unit-Demand Buyer</b><br>
+  Yaonan Jin, Pinyan Lu - 65th IEEE Annual Symposium on Foundations of Computer Science (FOCS 2024)</li>
 
-<li class="title"> A Context-Integrated Transformer-Based Neural Network for Auction Design (<a href="https://arxiv.org/abs/2201.12489">arXiv</a>)</li>
-<ul><ul><li>Joint work with Zhijian Duan, Jingwu Tang, Yutong Yin, Zhe Feng, Manzil Zaheer, and Xiaotie Deng.</li></ul></ul>
-<ul><ul><li><i>The Thirty-ninth International Conference on Machine Learning (ICML-22).</i></li></ul></ul>
+  <li><b>Subset Sum in Time \(2^{n/2} / \mathrm{poly}(n)\)</b><br>
+  Xi Chen, Yaonan Jin, Tim Randolph, Rocco Servedio - 27th International Workshop on Randomization and Computation (RANDOM 2023) [<a href="https://arxiv.org/abs/2301.07134">arXiv</a>]</li>
 
-<li class="title"> Tight Incentive Analysis on Sybil Attacks to Market Equilibrium of Resource Exchange over General Networks (<a href="https://dl.acm.org/doi/10.1145/3490486.3538378">pdf</a>)</li>
-<ul><ul><li>Joint work with Yukun Cheng, Xiaotie Deng, and Yuhao Li.</li></ul></ul>
-<ul><ul><li><i> The 23rd ACM Conference on Economics and Computation (EC-22).</i></li></ul></ul>
+  <li><b>Learning Reserve Prices in Second Price Auctions</b><br>
+  Yaonan Jin, Pinyan Lu, Tao Xiao - 14th Innovations in Theoretical Computer Science Conference (ITCS 2023) [<a href="https://arxiv.org/abs/1912.10069">arXiv</a>]</li>
 
-<li class="title"> On the Convergence of Fictitious Play: A Decomposition Approach (<a href="https://arxiv.org/abs/2205.01469">arXiv</a>)</li>
-<ul><ul><li>Joint work with Yurong Chen, Xiaotie Deng, Chenchen Li, David Mguni, Jun Wang, and Yaodong Yang.</li></ul></ul>
-<ul><ul><li><i>The 31st International Joint Conference on Artificial Intelligence (IJCAI-22).</i></li></ul></ul>
+  <li><b>Super-Resolution and Robust Sparse Continuous Fourier Transform in Any Constant Dimension: Nearly Linear Time and Sample Complexity</b><br>
+  Yaonan Jin, Daogao Liu, Zhao Song - 34th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2023) [<a href="https://arxiv.org/abs/2005.06156">arXiv</a>]</li>
 
-<li class="title"> Optimal Crowdfunding Design (<a href="https://dl.acm.org/doi/abs/10.5555/3463952.3464207">pdf</a>)</li>
-<ul><ul><li>Joint work with Yiling Chen.</li></ul></ul>
-<ul><ul><li><i>20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-21).</i></li></ul></ul>
+  <li><b>The Price of Stability for First Price Auction</b><br>
+  Yaonan Jin, Pinyan Lu - 34th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2023) [<a href="https://arxiv.org/abs/2207.04455">arXiv</a>]</li>
 
-</h2>
-<li class="title"> A Game-Theoretic Analysis of the Empirical Revenue Maximization Algorithm with Endogenous Sampling (<a href="https://arxiv.org/abs/2010.05519">arXiv</a>)</li>
-<ul><ul><li>Joint work with Xiaotie Deng, Ron Lavi, Tao Lin, Qi Qi, and Wenwei Wang.</li></ul></ul>
-<ul><ul><li><i>Advances in Neural Information Processing Systems, 2020, 33 (NeurIPS-20).</i></li></ul></ul>
+  <li><b>First Price Auction is \(1 - 1 / e^{2}\) Efficient</b><br>
+  Yaonan Jin, Pinyan Lu - 63rd IEEE Annual Symposium on Foundations of Computer Science (FOCS 2022) [<a href="https://arxiv.org/abs/2207.01761">arXiv</a>]</li>
 
-<li class="title"> Leveraging Multiplexing Gain in Network Slice Bundles (<a href="https://ieeexplore.ieee.org/abstract/document/9224926">pdf</a>)</li>
-<ul><ul><li>Joint work with Qian Xu, Kui Wu, Jianping Wang, Kejie Lu, and Weiwei Wu.</li></ul></ul>
-<ul><ul><li><i>IEEE Transactions on Network Science and Engineering, 2020.</i>[J]</li></ul></ul>
+  <li><b>Average-Case Subset Balancing Problems</b><br>
+  Xi Chen, Yaonan Jin, Tim Randolph, Rocco Servedio - 33rd Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2022) [<a href="https://arxiv.org/abs/2110.14607">arXiv</a>]</li>
 
-<li class="title"> A Distance Function to Nash Equilibrium </li>
-<ul><ul><li>Joint work with Dongge Wang, Zhehao Dou, and Xiaotie Deng.</li></ul></ul>
-<ul><ul><li><i>International Joint Conference On Theoretical Computer Science (IJTCS-20)</i>.</li></ul></ul>
+  <li><b>Fourier Growth of Structured \(\mathbb{F}_2\)-Polynomials and Applications</b><br>
+  Jarosław Błasiok, Peter Ivanov, Yaonan Jin, Chin Ho Lee, Rocco Servedio, Emanuele Viola - 25th International Workshop on Randomization and Computation (RANDOM 2021) [<a href="https://arxiv.org/abs/2107.10797">arXiv</a>, <a href="https://eccc.weizmann.ac.il/report/2021/110/">ECCC</a>]</li>
 
-</h2>
-<li class="title"> Cost-Effective Incentive Allocation via Structured Counterfactual Inference (<a href="https://arxiv.org/abs/1902.02495">arXiv</a>)</li>
-<ul><ul><li>Joint work with Romain Lopez, Chenchen Li, Michael I. Jordan, Yuan Qi and Le song.</li></ul></ul>
-<ul><ul><li><i>The Thirty-Fourth AAAI conference on Aritifical Intelligence (AAAI-20).</i></li></ul></ul>
+  <li><b>Tight Revenue Gaps among Multi-Unit Mechanisms</b><br>
+  Yaonan Jin, Shunhua Jiang, Pinyan Lu, Hengjie Zhang - 22nd ACM Conference on Economics and Computation (EC 2021) [<a href="https://arxiv.org/abs/2102.07454">arXiv</a>]</li>
 
-<li class="title"> Incentive Facilitation for Peer Data Exchange in Crowdsensing (<a href="https://ieeexplore.ieee.org/document/8755515">pdf</a>)</li>
-<ul><ul><li>Joint work with Fan Ye, Yuanyuan Yang, Dongge Wang and Xiaotie Deng.</li></ul></ul>
-<ul><ul><li><i> IEEE Transactions on Cloud Computing, 2019.</i>[J]</li></ul></ul>
+  <li><b>On the Approximability of Simple Mechanisms for MHR Distributions</b><br>
+  Yaonan Jin, Weian Li, Qi Qi - 15th Conference on Web and Internet Economics (WINE 2019) [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-35389-6_17">PDF</a>]</li>
 
-<li class="title"> A Polynomial Time Algorithm for Fair Resource Allocation in Resource Exchange (<a href="https://arxiv.org/abs/1905.01670">pdf</a>)</li>
-<ul><ul><li>Joint work with Wei Zhu.</li></ul></ul>
-<ul><ul><li><i>International Workshop on Frontiers in Algorithmics. Springer, Cham, 2019: 1-13. (FAW-19)</i></li></ul></ul>
-<ul><ul><li><i>An extended version is published on IEEE Transactions on Cloud Computing, 2021.</i>[J]</li></ul></ul>
+  <li><b>Optimal Budget-Feasible Mechanisms for Additive Valuations</b><br>
+  Nick Gravin, Yaonan Jin, Pinyan Lu, Chenhao Zhang - 20th ACM Conference on Economics and Computation (EC 2019) [<a href="http://arxiv.org/abs/1902.04635">arXiv</a>]</li>
 
-<li class="title"> Latent Dirichlet Allocation for Internet Price War (<a href="https://arxiv.org/abs/1808.07621">arXiv</a>)</li>
-<ul><ul><li>Joint work with Chenchen Li, Xiaotie Deng, Yuan Qi, Wei Chu, Le Song, Junlong Qiao, Jianshan He, Junwu Xiong.</li></ul></ul>
-<ul><ul><li><i>The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19).</i></li></ul></ul>
+  <li><b>Tight Approximation Ratio of Anonymous Pricing</b><br>
+  Yaonan Jin, Pinyan Lu, Qi Qi, Zhihao Tang, Tao Xiao - 51st Annual ACM SIGACT Symposium on Theory of Computing (STOC 2019) [<a href="https://arxiv.org/abs/1811.00763">arXiv</a>]</li>
 
-<li class="title"> Personalized Behavior Prediction with Encoder-to-Decoder Structure (<a href="https://ieeexplore.ieee.org/abstract/document/8515696/">pdf</a>)</li>
-<ul><ul><li>Joint work with Tong Yin, Xiaotie Deng, Yuan Qi, Wei Chu, Jing Pan and Yunwu Xiong.</li></ul></ul>
-<ul><ul><li><i>2018 IEEE International Conference on Networking, Architecture and Storage. IEEE, 2018: 1-10 (NAS-18).</i></li></ul></ul>
+  <li><b>Tight Revenue Gaps among Simple Mechanisms</b><br>
+  Yaonan Jin, Pinyan Lu, Zhihao Tang, Tao Xiao - 30th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2019) [<a href="https://arxiv.org/abs/1804.00480">arXiv</a>]</li>
+</ul>
+<h3>Manuscripts</h3>
+<ul>
+  <li><b>Efficient Clustering on Sparse Graphs via Super-effective Local Search</b><br>
+  Shaofeng H.-C. Jiang, Yaonan Jin, Jianing Lou, and Pinyan Lu</li>
+  
+  <li><b>Beyond Regularity: Simple versus Optimal Mechanisms, Revisited</b> (<a href="https://arxiv.org/abs/2411.03583">arXiv</a>)<br>
+  Yiding Feng and Yaonan Jin</li>
+  
+  <li><b>On Asymptotically Tight Tail Bounds for Sums of Geometric and Exponential Random Variables</b> (<a href="https://arxiv.org/abs/1902.02852">arXiv</a>)<br>
+  Yaonan Jin, Yingkai Li, Yining Wang, and Yuan Zhou</li>
+</ul>
 
-<li class="title"> Limiting User's Sybil Attack in Resource Sharing (<a href="https://link.springer.com/chapter/10.1007/978-3-319-71924-5_8">pdf</a>)</li>
-<ul><ul><li>Joint work with Zhou Chen, Yukun Cheng, Xiaotie Deng and Qi Qi.</li></ul></ul>
-<ul><ul><li><i>International Conference on Web and Internet Economics. Springer, Cham, 2017: 103-119 (WINE-17).</i></li></ul></ul>
-<ul><ul><li><i>An extended version is published on IEEE Transactions on Cloud Computing, 2020.</i>[J]</li></ul></ul>
+<div class="foot">Last updated: {{ "now"| date: "%b %d, %Y"}}</div>
 
-<li class="title"> Agent Incentives of Strategic Behavior in Resource Exchange (<a href="https://www.sciencedirect.com/science/article/pii/S0166218X1830430X">pdf</a>)</li>
-<ul><ul><li>Joint work with Zhou Chen, Yukun Cheng, Xiaotie Deng and Qi Qi.</li></ul></ul>
-<ul><ul><li><i>The 10th International Symposium on Algorithmic Game Theory (SAGT-17).</i></li></ul></ul>
-<ul><ul><li><i>An extended version is published on Discrete Applied Mathematics, 2018.</i>[J]</li></ul></ul>
-
-<li class="title"> Incentive Ratios of a Proportional Sharing Mechanism in Resource Sharing (<a href="https://link.springer.com/article/10.1007/s10878-018-0315-5">pdf</a>)</li>
-<ul><ul><li>Joint work with Zhou Chen, Yukun Cheng and Qi Qi.</li></ul></ul>
-<ul><ul><li><i> International Computing and Combinatorics Conference. Springer, Cham, 2017: 137-149 (COCOON-17).</i></li></ul></ul>
-<ul><ul><li><i>An extended version is published on Journal of Combinatorial Optimization, 2019, 37(2): 639-667.</i>[J]</li></ul></ul>
-
-<li class="title"> An Autonomous Compensation Game to Facilitate Peer Data Exchange in Crowdsensing (<a href="https://ieeexplore.ieee.org/document/7969169">pdf</a>)</li>
-<ul><ul><li> Joint work with Fan Ye, Yuanyuan Yang and Xiaotie Deng.</li></ul></ul>
-<ul><ul><li><i>2017 IEEE/ACM 25th International Symposium on Quality of Service. IEEE, 2017: 1-6 (IWQoS-17).</i></li></ul></ul>
-
-<li class="title"> Truthfulness of Proportional Sharing Mechanism in Resource Exchange (<a href="https://pdfs.semanticscholar.org/1d7b/c2b3fddb6fdaf448001fcaece6dadd7103a1.pdf">pdf</a>)</li>
-<ul><ul><li> Joint work with Yukun Cheng, Xiaotie Deng and Qi Qi.</li></ul></ul>
-<ul><ul><li><i>The 25th International Joint Conference on Artificial Intelligence (IJCAI-16).</i></li></ul></ul>
-
-<li class="title"> Can Bandwidth Sharing Be Truthful? (<a href="https://link.springer.com/chapter/10.1007/978-3-662-48433-3_15">pdf</a>)</li>
-<ul><ul><li> Joint work with Yukun Cheng, Xiaotie Deng and Yifan Pi.</li></ul></ul>
-<ul><ul><li><i>International Symposium on Algorithmic Game Theory. Springer, Berlin, Heidelberg, 2015: 190-202 (SAGT-15).</i></li></ul></ul>
-
-<li class="title"> Price Data Engine for Market Design (<a href="./files/Price Data Engine for Market Design.pdf">pdf</a>)</li>
-<ul><ul><li> Joint work with Yu Chen, Xiaotie Deng, Kainan Wang and Yuncong Zhang.</li></ul></ul>
-<ul><ul><li><i>The 3rd China Computer Federation BigData, 2015 (CCFBigData-15).</i></li></ul></ul>
-
-<h2>Working Papers</h2>
-</h2>
-
-<li class="title"> A Unified Framework of Multi-Stage Multi-Winner Voting: An Axiomatic Exploration (<a href="https://arxiv.org/abs/2402.02673">arXiv</a>)</li>
-<ul><ul><li>Joint work with Shengjie Gong, Lingxiao Huang, Shuangping Huang, Yuyi Wang, Zhiqi Wang, Tao Xiao, and Chunxue Yang.</li></ul></ul>
-
-<li class="title"> Strategyproof Facility Location Mechanisms with Richer Action Spaces (<a href="https://arxiv.org/abs/2002.07889">arXiv</a>)</li>
-<ul><ul><li>Joint work with Yiling Chen.</li></ul></ul>
-
-<li class="title"> Finding Mixed Strategy Nash Equilibrium for Continuous Games through Deep Learning (<a href="https://arxiv.org/abs/1910.12075">arXiv</a>)</li>
-<ul><ul><li>Joint work with Zehao Dou, Dongge Wang, and Xiaotie Deng.</li></ul></ul>
-
-<li class="title"> Reinforcement Learning for Uplift Modeling (<a href="https://arxiv.org/abs/1811.10158">arXiv</a>)</li>
-<ul><ul><li>Joint work with Chenchen Li, Xiaotie Deng, Yuan Qi, Wei Chu, Le song, Junlong Qiao, Jiaoshan He and Junwu Xiong.</li></ul></ul>
-
-<li class="title"> Computing Market Equilibrium via Sinkhorn-Like Dynamics and Algebraic Algorithms </li>
-<ul><ul><li>Joint work with Yaonan Jin and Yingkai Li.</li></ul></ul>
-
-<li class="title"> Hybrid Auction and Membership Fee in Online Platform </li>
-<ul><ul><li>Joint work with Zhou Chen and Qi Qi.</li></ul></ul>
-
-<h2>Teaching Experience</h2>
-<h3>Teaching Assistant (Shanghai Jiao Tong University)</h3>
-
-<li class="title"> Big Data Algorithm (Xiaotie Deng, Fall 2016)</li>
-
-<li class="title"> Game Theoretic Methodology and Technique for Internet Protocol (Xiaotie Deng, Fall 2015)</li>
-
-<li class="title"> Real Analysis & Fourier Analysis (Mikhail Tyaglov, Spring 2015 & 2016)</li>
-
-
-<h2>Honor & Awards</h2>
-<li class="title"> <b>Best Youth Paper Award</b> (Second Prize) </li>
-<ul><ul><li>The 8th China Meet on Game Theory and Its Applications (CMGTA, 2018)</li></ul></ul>
-<ul><ul><li>Paper "Truthfulness of a Proportional Sharing Mechanism in Resource Exchange"</li></ul></ul>
-
-<li class="title"> <b>Guanghua Scholarship</b> (Oct. 2016, top 10% in SJTU) </li>
-
-<li class="title"> <b>Outstanding Bachelor Thesis of SJTU</b> (July 2015, top 1% in SJTU) </li>
-
-<li class="title"> <b>Outstanding Graduate Student of Shanghai</b> (July 2015, top 1% in Shanghai) </li>
-
-<li class="title"> <b>SJTU Scholarship (Level A)</b> (Oct. 2014, top 1% in SJTU) </li>
-
-<li class="title"> <b>Masterpiece Mention</b> (of Mathematical Contest in Modeling, USA (Apr. 2014) </li>
-
-<li class="title"> <b>First Prize</b> of China University Mathematical Contest in Modeling (Oct. 2013) </li>
-
-<h2>Others</h2>
-<li class="title">  National Second-level Basketball Referee </li>
-
-<div class="foot">
-Last updated: 7 Feb, 2024
--->
-</div>
-
-
-
-</body></html>
+</body>
+</html>
