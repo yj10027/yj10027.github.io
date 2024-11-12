@@ -2,7 +2,6 @@
 
 <title>Yaonan Jin's Homepage</title>
 <link rel="stylesheet" href="main.css" type="text/css">
-</head>
 <style>
   a:link, a:visited { color: DodgerBlue; text-decoration: none; }
   a:hover { color: red; text-decoration: underline; }
