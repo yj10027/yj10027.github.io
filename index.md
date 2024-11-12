@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <title>Yaonan Jin's Homepage</title>
 <link rel="stylesheet" href="main.css" type="text/css">
+</head>
 <style>
   a:link, a:visited { color: DodgerBlue; text-decoration: none; }
   a:hover { color: red; text-decoration: underline; }
