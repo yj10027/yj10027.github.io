@@ -33,7 +33,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Trying to get history
-        run: git switch master && git pull && git log -5
+        run: git switch main && git pull && git log -5
       - name: Setup Ruby
         uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         with:
