@@ -11,8 +11,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.0"
 
-# using v3
-gem "cayman", github: "jekyll/cayman"
+gem 'jekyll-theme-cayman', '~> 0.0.3'
 
 gem 'kramdown-parser-gfm'
 
