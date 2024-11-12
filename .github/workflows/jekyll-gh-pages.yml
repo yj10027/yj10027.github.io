@@ -44,7 +44,7 @@ jobs:
         run: |
           ls -a
           bundle install
-          bundle exec jekyll build --destination ../_site
+          bundle exec jekyll build
           # grep "Created" -A5  ../_site/blog/2024/06/25/stop-the-go-and-docker-madness.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
