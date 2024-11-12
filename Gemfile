@@ -12,7 +12,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.0"
 
 # using v3
-gem "minima", github: "jekyll/minima"
+gem "cayman", github: "jekyll/cayman"
 
 gem 'kramdown-parser-gfm'
 
